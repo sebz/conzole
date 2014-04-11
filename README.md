@@ -3,6 +3,11 @@ conzole
 
 Another console library using colors and symbols
 
+## Installation
+
+Just `npm install git+https://github.com/sebz/conzole.git --save`
+
+
 ## Available features
 
 * title

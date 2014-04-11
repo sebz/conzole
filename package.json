@@ -12,5 +12,8 @@
     "symbols"
   ],
   "author": "Sebastien Moran (sebz)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^0.2.3"
+  }
 }

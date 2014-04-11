@@ -26,4 +26,4 @@ conzole.ln();
 // Chaining
 conzole.title("Chaining demo").indent(4).quote("We are chaining calls").indent(6).message("Look, I'm chained").ln();
 
-conzole.log("Log woks as an alias for 'message'").debug("And debug too, because life is too short to use \'log\' all the times...");
+conzole.title("Aliases for 'message'").log("Log works as an alias for 'message'").debug("And debug too, because life is too short to use 'log' all the times...");

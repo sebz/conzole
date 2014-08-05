@@ -5,14 +5,14 @@ Another console library using colors and symbols
 
 ## Installation
 
-Just `npm install git+https://github.com/sebz/conzole.git --save`
+Just `npm conzole --save`
 
 
 ## Available features
 
 * title
 * quote
-* message
+* message (aliases: log, debug)
 * start
 * done
 * warn

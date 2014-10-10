@@ -25,5 +25,22 @@ conzole.ln();
 
 // Chaining
 conzole.title("Chaining demo").indent(4).quote("We are chaining calls").indent(6).message("Look, I'm chained").ln();
+conzole.ln();
 
 conzole.title("Aliases for 'message'").log("Log works as an alias for 'message'").debug("And debug too, because life is too short to use 'log' all the times...");
+conzole.ln();
+
+// Object
+conzole.title("Object demo");
+var object = {
+    aKey: "aValue",
+    anotherKey: "anotherValue"
+};
+
+conzole.quote(object);
+conzole.message(object);
+conzole.start(object);
+conzole.failed(object);
+conzole.warn(object);
+conzole.done(object);
+conzole.ln();

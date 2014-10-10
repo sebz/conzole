@@ -1,6 +1,6 @@
 {
   "name": "conzole",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Small library to add some fun to the console with colors and symbols",
   "main": "lib",
   "repository": {

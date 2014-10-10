@@ -23,6 +23,7 @@
   "author": "Sebastien Moran (sebz)",
   "license": "ISC",
   "dependencies": {
-    "cli-color": "^0.2.3"
+    "cli-color": "^0.2.3",
+    "underscore": "^1.7.0"
   }
 }

@@ -26,6 +26,6 @@ $ npm install --save conzole
 
 ## Preview
 
-Take a look at `playground.js` for the code producing this screenshot:
+Take a look at [playground.js](playground.js) for the code producing this screenshot:
 
 ![screenshot](conzole.png)

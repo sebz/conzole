@@ -5,8 +5,9 @@ Another console library using colors and symbols
 
 ## Installation
 
-Just `npm conzole --save`
-
+```
+$ npm install --save conzole
+```
 
 ## Available features
 
@@ -27,4 +28,4 @@ Just `npm conzole --save`
 
 Take a look at `playground.js` for the code producing this screenshot:
 
-![screenshot](https://raw.githubusercontent.com/sebz/conzole/master/conzole.png)
+![screenshot](conzole.png)

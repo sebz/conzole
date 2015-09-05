@@ -1,7 +1,6 @@
 conzole
 =======
-
-Another console library using colors and symbols
+>Another console library using colors and symbols
 
 ## Installation
 

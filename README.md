@@ -2,13 +2,13 @@ conzole
 =======
 >Another console library using colors and symbols
 
-## Installation
+## Installation
 
 ```
 $ npm install --save conzole
 ```
 
-## Available features
+## Available features
 
 * title
 * quote
